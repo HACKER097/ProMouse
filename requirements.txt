@@ -1,0 +1,5 @@
+mediapipe
+tk
+pyautogui
+mouse
+opencv-python
